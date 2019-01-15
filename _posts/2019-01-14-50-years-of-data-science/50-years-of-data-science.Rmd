@@ -78,6 +78,7 @@ education?
 
 - Why do you think Tukey's *The Future of Data Analysis* was allowed to be 
 punished?^[Page 10]
+- Why would statisticians *not* want it to be published?
 - What does it mean for something to be "allowed to be published" today?
 
 ### Discussion 7
@@ -86,8 +87,8 @@ Tukey wrote that^[Page 11]:
 
 >Four major influences act on data analysis today: 1. The formal theories of statistics. 2. Accelerating developments in computers and display devices. 3. The challenge, in many fields, of more and ever larger bodies of data. 4. The emphasis on quantification in an ever wider variety of disciplines.
 
-How have these influences evolved since this paper was written? In what ways do
-these forces work together and in what ways are they fractured?
+- How have these influences evolved since this paper was written? 
+- In what ways do these forces work together and in what ways are they fractured?
 
 ### Discussion 8
 
