@@ -1,0 +1,19 @@
+name: "cogs9-w2019"
+title: "Introduction to Data Science"
+description: |
+  COGS 9 Winter 2019
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - icon: fab fa-github
+      href: https://github.com/seankross/cogs9-w2019
+base_url: "https://seankross.com/cogs9-w2019/"
+output: radix::radix_article
+creative_commons: CC BY
+collections:
+  posts:
+    feed_items_max: false
+    citations: false
+

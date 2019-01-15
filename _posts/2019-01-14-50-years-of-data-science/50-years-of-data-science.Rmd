@@ -1,0 +1,151 @@
+---
+title: "50 Years of Data Science"
+description: |
+  Discussion questions for David Donoho's article.
+preview: "images/roman-mager-59976-unsplash.jpg"
+author:
+  - name: Sean Kross
+date: 01-14-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Discussion 1
+
+Donoho claims that "*statisticians have already been pursuing daily*" the tasks of "*collection, management, processing, analysis, visualization, and interpretation of vast amounts of heterogeneous data associated with a diverse array of ... applications.*"^[Page 4]
+    
+- If this is true, then what forces have lead to the creation of the field
+of data science? 
+- What kinds of activities are statisticians incentivized to study?
+- How much intellectual value is assigned to each of these activities?
+
+### Discussion 2
+
+Consider the following two paraphrasings^[Page 5.]:
+    
+> A data scientist is a professional who uses scientific methods to liberate and create meaning from raw data.
+    
+> An applied statistician is a professional who uses methodology to make inferences from data.
+    
+- What are the tensions between these two statements?
+- How do statisticians and data scientists differ in terms of sensemaking,
+ways of knowing, and epistemology?
+
+### Discussion 3
+    
+Consider Broman's quotation^[Page 6]:
+
+> When physicists do mathematics,
+they don't say they're doing number science. They're doing math. If you're 
+analyzing data, you're doing statistics. You can call it data science
+or informatics or analytics or whatever, but it's still statistics. ... You may
+not like what some statisticians do. You may feel they don't share your values. 
+They may embarrass you. But that shouldn't lead us to abandon the term
+'statistics'. 
+
+- What equivalencies is Broman drawing here and what are their implications?
+- What does it mean that Broman is defending the use of the term
+*statistics* though he is admitting his audience may have different values
+than statisticians?
+
+### Discussion 4
+
+Consider these quotations^[Page 8]:
+
+> In those less-hyped times, the skills being touted today were unnecessary. Instead, scientists developed skills to solve the problem they were really interested in, using elegant mathematics and powerful quantitative programming environments modeled on that math.
+
+> The new skills attracting so much media attention are not skills for better solving **the real problem** of inference from data; they are coping skills for dealing with organizational artifacts of large-scale cluster computing.
+
+> The new skills cope with severe new constraints on algorithms posed by the multiprocessor/networked world. In this highly constrained world, the range of easily constructible algorithms shrinks dramatically compared to the single-processor model, so one inevitably tends to adopt inferential approaches which would have been considered rudimentary or even inappropriate in olden times.
+
+- What kind of value hierarchy of skills is being constructed here?
+- Are there similar value hierarchies described in other parts of the paper?
+If so, where are they present?
+
+### Discussion 5
+
+> The databases, software, and workflow management taught in a given Data Science Masters program are unlikely to be the same as those used by one specific employer.^[Page 9]
+
+- What does this tell you about how you should proceed with your own data science
+education?
+
+### Discussion 6
+
+- Why do you think Tukey's *The Future of Data Analysis* was allowed to be 
+punished?^[Page 10]
+- What does it mean for something to be "allowed to be published" today?
+
+### Discussion 7
+
+Tukey wrote that^[Page 11]: 
+
+>Four major influences act on data analysis today: 1. The formal theories of statistics. 2. Accelerating developments in computers and display devices. 3. The challenge, in many fields, of more and ever larger bodies of data. 4. The emphasis on quantification in an ever wider variety of disciplines.
+
+How have these influences evolved since this paper was written? In what ways do
+these forces work together and in what ways are they fractured?
+
+### Discussion 8
+
+Consider this discussion of the Common Task Framework (CTF)^[Page 18]:
+
+> This combination leads directly to a total focus on optimization of empirical performance, which as Marc Liberman has pointed out, allows large numbers of researchers to compete at any given common task challenge, and allows for efficient and unemotional judging of challenge winners. It also leads immediately to applications in a real-world application.
+
+- What are the advantages and disadvantages of optimizing an algorithm to
+maximize one metric?
+- When isn't "*efficient and unemotional*" judgement appropriate?
+
+### Discussion 9
+
+- What does it mean to represent (re-present) data?
+- What are some of your favorite data representations from your regular life?
+
+### Discussion 10
+
+Consider this anecdote from Irizarry^[Page 23]:
+
+> Rafael Irizarry gave a convincing example of exploratory data analysis of GWAS data, studying how the data row mean varied with the date on which each row was collected, convince the field of gene expression analysis to face up to some data problems that were crippling their studies.
+
+- What would prepare a data scientist to be able to make this kind of insight?
+
+### Discussion 11
+
+Donoho says of greater data science research (GDS)^[Page 28]:
+
+> it is not traditional research in the sense of mathematical statistics or even machine learning;
+>it has proven to be very impactful on practicing data scientists;
+
+> This effort may have more impact on today’s practice of data analysis than many highly-regarded theoretical statistics papers.
+
+- What distinctions has Donoho drawn about research activities in GDS, 
+statistics, and machine learning?
+- How does this contrast with the earlier discussion of "statistics vs data 
+science?"
+
+### Discussion 12
+
+Consider these statements about "*Science about Data Science*":
+
+> This meta study demonstrates that by both accessing all previous data from a group of studies and trying all previous modeling approaches on all datasets one can obtain both a better result and a fuller understanding of the problems and shortcomings of actual data analyses.^[Page 30]
+
+> Instead of deriving optimal procedures under idealized assumptions within mathematical models, we will rigorously measure performance by empirical methods, based on the entire scientific literature or relevant subsets of it.^[Page 34]
+
+- What social and technical constructs would be required to realize the
+possibility of this scientific method?
+- What obstacles can you identify that stand in the way of this vision?
+- Are there any drawbacks to doing science this way?
+
+### Discussion 13
+
+Donoho derides "fancy" methods through a few empirical comparisons:
+
+>The implicit point is again that effort devoted to fancy-seeming methods is misplaced compared to other, more important issues.^[37]
+
+- What makes a method "fancy?"
+- When is it appropriate to use fancy methods?
+- What is the cause of the underlying tension between "fancy" and "simple"
+methods?
