@@ -23,6 +23,7 @@ Donoho claims that "*statisticians have already been pursuing daily*" the tasks 
 of data science? 
 - What kinds of activities are statisticians incentivized to study?
 - How much intellectual value is assigned to each of these activities?
+- Who decides which of these activities is valuable?
 
 ### Discussion 2
 
