@@ -78,7 +78,7 @@ education?
 ### Discussion 6
 
 - Why do you think Tukey's *The Future of Data Analysis* was allowed to be 
-punished?^[Page 10]
+published?^[Page 10]
 - Why would statisticians *not* want it to be published?
 - What does it mean for something to be "allowed to be published" today?
 
