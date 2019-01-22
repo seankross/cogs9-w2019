@@ -1,0 +1,53 @@
+---
+title: "Big Data, Machine Learning, and the Social Sciences"
+description: |
+  Discussion questions for Hanna Wallach's article.
+author:
+  - name: Sean Kross
+date: 01-22-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Discussion 1
+
+> But when it comes to addressing bias, fairness, and inclusion, perhaps we need to focus our attention on the granular nature of big data, or the fact that there may be many interesting data sets, nested within these larger collections, for which average-case statistical patterns may not hold.
+
+- Can you think of any non-normative statistical/machine learning/computational
+models or methods? 
+- How could suck methods be applied to data about people's social relationships
+and behaviors?
+- How could identification of these "datasets within datasets" become
+problematic?
+
+### Discussion 2
+
+> ...it's possible to obtain all kinds of local government data via public records requests, including data on bias, fairness, and inclusion. Of course, in order to do this, you have to know about these laws, how to issue a public records request, and so on and so on - all of which is arguably more difficult than pulling in data from the Twitter firehose, but may ultimately help address bigger societal issues.
+
+- Do you think the relative availability of this data is deliberate? Why or why
+not?
+
+### Discussion 3
+
+> ...if we want to achieve fairness, we need to perform rigorous error analysis and model validation.
+
+- To what extent are these criteria sufficient for achieving fairness?
+
+### Discussion 4
+
+> Being aware that these "implicit biases" exist, and that everyone possesses them - even scientists - is an important step toward drawing fair and unbiased conclusions.
+
+- What incentives do data science teams have to mitigate against bias?
+- What is the relationship between bias and discrimination from the perspective
+of a data scientist?
+
+### Discussion 5
+
+> If we want people to draw responsible conclusions using our models and tools, then we need people to understand how they work, rather than treating them as infallible "black boxes." This means not only publishing academic papers and making research code available, but also explaining our models and tools to general audiences and, when doing so, focusing on elucidating implicit assumptions, best practices for selecting and deploying them, and the types of conclusions they can and can't be used to draw.
+
+- What incentivizes data scientists to be transparent in their methods?

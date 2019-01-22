@@ -1,0 +1,56 @@
+---
+title: "Data's Day of Reckoning"
+description: |
+  Discussion questions for the article by Mike Loukides, Hilary Mason, and DJ Patil.
+author:
+  - name: Sean Kross
+date: 01-21-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Discussion 1
+
+> Our lives are bathed in data: from recommendations about whom to "follow" or "friend" to data-driven autonomous vehicles.
+
+Many people make claims like "data are everywhere." How much of this data do you
+as an end user have access too? To what extent to you have access to the data
+that you generate? What power dynamics are set up between data providers and
+collectors?
+
+### Discussion 2
+
+> It has become very clear that the incentives of the organizations that build and own data products haven't aligned with the good of the people using those products.
+
+- Brainstorm some ways that incentives could be aligned.
+- People have also made the claim that "data is the new oil." Think about how
+crude oil, gasoline, and other petroleum products are handled. Does how
+we handle oil inform how we should handle data?
+
+### Discussion 3
+
+The proposed ethics checklist contains the following point:
+
+> Do we have a mechanism for redress if people are harmed by the results?
+
+Should it be the responsibility of a data science team to create and control
+redress mechanisms?
+
+### Discussion 4
+
+The authors propose adapting the *andon cord* from automobile production for
+data product creation. How is production on an assembly line similar and
+different from production on a data science team?
+
+### Discussion 5
+
+> By the time a policy has been formulated and approved, it almost always lags behind technology; but it’s impossible for policy makers to iterate quickly enough to catch up with the newest technology.
+
+- Specifically, what makes this impossible?
+- Should policy maker be reactive (regulate once their is a problem) or proactive
+(try to anticipate problems and regulate accordingly)?

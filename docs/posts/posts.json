@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2019-01-22-big-data-machine-learning-and-the-social-sciences/",
+    "title": "Big Data, Machine Learning, and the Social Sciences",
+    "description": "Discussion questions for Hanna Wallach's article.",
+    "author": [
+      {
+        "name": "Sean Kross",
+        "url": {}
+      }
+    ],
+    "date": "2019-01-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-01-22T14:47:41-08:00"
+  },
+  {
+    "path": "posts/2019-01-21-datas-day-of-reckoning/",
+    "title": "Data's Day of Reckoning",
+    "description": "Discussion questions for the article by Mike Loukides, Hilary Mason, and DJ Patil.",
+    "author": [
+      {
+        "name": "Sean Kross",
+        "url": {}
+      }
+    ],
+    "date": "2019-01-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-01-22T14:47:36-08:00"
+  },
+  {
     "path": "posts/2019-01-14-50-years-of-data-science/",
     "title": "50 Years of Data Science",
     "description": "Discussion questions for David Donoho's article.",
@@ -12,6 +42,6 @@
     "date": "2019-01-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-01-15T13:35:49-08:00"
+    "last_modified": "2019-01-15T13:35:50-08:00"
   }
 ]
