@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Can you think of any non-normative statistical/machine learning/computational
 models or methods? 
-- How could suck methods be applied to data about people's social relationships
+- How could such methods be applied to data about people's social relationships
 and behaviors?
 - How could identification of these "datasets within datasets" become
 problematic?
